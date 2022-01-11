@@ -1,4 +1,4 @@
 # first-c-program
 
 ### compile
-'gcc -Wall hello.c –o hello'
+`gcc -Wall hello.c –o hello`
